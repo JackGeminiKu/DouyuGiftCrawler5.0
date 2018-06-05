@@ -1,0 +1,9 @@
+D:\Jack\Desktop\DouyuGiftCrawler5.0\DouyuGiftCrawler\bin\Debug\DouyuGiftCrawler.exe
+D:\Jack\Desktop\DouyuGiftCrawler5.0\DouyuGiftCrawler\bin\Debug\DouyuGiftCrawler.pdb
+D:\Jack\Desktop\DouyuGiftCrawler5.0\DouyuGiftCrawler\obj\x86\Debug\DouyuGiftCrawler.exe
+D:\Jack\Desktop\DouyuGiftCrawler5.0\DouyuGiftCrawler\obj\x86\Debug\DouyuGiftCrawler.pdb
+D:\Jack\Desktop\DouyuGiftCrawler5.0\DouyuGiftCrawler\bin\Debug\DouyuGiftCrawler.exe.config
+D:\Jack\Desktop\DouyuGiftCrawler5.0\DouyuGiftCrawler\bin\Debug\Jack4net.dll
+D:\Jack\Desktop\DouyuGiftCrawler5.0\DouyuGiftCrawler\bin\Debug\log4net.dll
+D:\Jack\Desktop\DouyuGiftCrawler5.0\DouyuGiftCrawler\bin\Debug\Jack4net.pdb
+D:\Jack\Desktop\DouyuGiftCrawler5.0\DouyuGiftCrawler\obj\x86\Debug\DouyuGiftCrawler.csprojResolveAssemblyReference.cache
